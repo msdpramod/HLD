@@ -17,3 +17,4 @@
 
 
 21. [OTHER RESOURECES](https://github.com/ashishps1/awesome-system-design-resources)
+22. [BHAYANI](https://github.com/donnemartin/system-design-primer?tab=readme-ov-file)
